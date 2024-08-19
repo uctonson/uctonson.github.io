@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uctonson.github.io/sitemap.html.gz
+Sitemap: https://uctonson.github.io/app/sitemap.html.gz
+Sitemap: https://uctonson.github.io/assets/sitemap.html.gz
+Sitemap: https://uctonson.github.io/css/sitemap.html.gz
+Sitemap: https://uctonson.github.io/includes/sitemap.html.gz
+Sitemap: https://uctonson.github.io/item/sitemap.html.gz
+Sitemap: https://uctonson.github.io/src/sitemap.html.gz
